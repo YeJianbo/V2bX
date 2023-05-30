@@ -1,5 +1,6 @@
-# V2bX
-
+# V2bX 
+    
+[![](https://img.shields.io/github/v/release/cubemaze/V2bX)]() 
 [![](https://img.shields.io/badge/TgChat-%E4%BA%A4%E6%B5%81%E7%BE%A4-blue)](https://t.me/YuzukiProjects)
 
 A V2board node server based on multi core, modified from XrayR.  
@@ -50,7 +51,7 @@ A V2board node server based on multi core, modified from XrayR.
 ### 一键安装
 
 ```
-wget -N https://raw.githubusercontents.com/Yuzuki616/V2bX-script/master/install.sh && bash install.sh
+wget -N https://raw.githubusercontents.com/cubemaze/V2bX-script/master/install.sh && bash install.sh
 ```
 
 ### 手动安装
