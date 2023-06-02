@@ -12,7 +12,7 @@ A V2board node server based on multi core, modified from XrayR.
 
 * 永久开源且免费。
 * 支持V2ray，Trojan， Shadowsocks多种协议。
-* 支持Vless和XTLS等新特性。
+* 支持VlESS和XTLS等新特性
 * 支持单实例对接多节点，无需重复启动。
 * 支持限制在线IP。
 * 支持限制Tcp连接数。
