@@ -40,7 +40,7 @@ func executeX25519() {
 		fmt.Println("请输入节点id:")
 		fmt.Scan(&temp)
 		key = temp
-		fmt.Println("请输入节点类型:")
+		fmt.Println("请输入节点类型: v2ray")
 		fmt.Scan(&temp)
 		key += strings.ToLower(temp)
 		fmt.Println("请输入Token:")
